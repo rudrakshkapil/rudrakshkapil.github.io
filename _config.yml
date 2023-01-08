@@ -17,11 +17,11 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title:"Home Change", icon:home}
-  - {file: "about.md", title:"About me", icon:address-card}
-  - {file: "resume.pdf", title:"CV", icon:address-card}
-  - {file: "thesis_page.md", title:"Thesis", icon:address-card}
-  - {file: "projects.md", title:"Projects", icon:address-card}
-  - {file: "experience.md", title:"Experience", icon:address-card}
+  - {file: "about.md", title:"About me"}
+  - {file: "resume.pdf", title:"CV"}
+  - {file: "thesis_page.md", title:"Thesis"}
+  - {file: "projects.md", title:"Projects"}
+  - {file: "experience.md", title:"Experience"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:rudrakshkapil09@gmail.com"}
