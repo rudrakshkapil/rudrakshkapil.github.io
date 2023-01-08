@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.md", title:"Projects"}
   - {file: "experience.md", title:"Experience"}
   - {file: "thesis_page.md", title:"Thesis"}
-  - {url: "https://rudrakshkapil.github.io/RKCV.pdf", title:"CV"}
+  - {url: "https://rudrakshkapil.github.io/RKCV.pdf", file: "CV.md", title:"CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:rudrakshkapil09@gmail.com"}
