@@ -1,4 +1,4 @@
 ---
 layout: page
-title: M.Sc. Thesis Project
+title: M.Sc. Thesis
 ---
