@@ -7,8 +7,7 @@ title: Publications
 
 ### SD-Measure: A Social Distancing Detector
 Savyasachi Gupta, **Rudraksh Kapil**, Goutham Kanahasabi, Shreyas S. Joshi, Aniruddha S. Joshi
-<font size=1 line-height=0.5>*in 2020 12th International Conference on Computational Intelligence and Communication Networks (CICN), Nainital, India*
-
+<font size=1>*in 2020 12th International Conference on Computational Intelligence and Communication Networks (CICN), Nainital, India*
 
 
 
