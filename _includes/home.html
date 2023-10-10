@@ -1,5 +1,5 @@
 <!-- {%- assign posts = paginator.posts | default: site.posts, where:"category","publication" -%} -->
-{%- assign posts = site.posts | where:"category","publication" -%}
+{%- assign posts = site.categories.publication -%}
 {% for post in posts %}
   <!-- {% if post.categories contains "publication"} -->
   <article>
