@@ -22,7 +22,7 @@ During my undergraduate degree, I co-authored two research papers that were acce
 
 ---
 
-<h2> List of Research Papers </h2>
+<h2> List of Peer-reviewed Research Papers </h2>
  
 {% if site.show_excerpts %}
   {% include home.html %}
