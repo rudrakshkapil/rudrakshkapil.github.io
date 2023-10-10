@@ -3,13 +3,14 @@ layout: page
 title: "Research"
 ---
 
-<h4 href="https://scholar.google.com/citations?user=rwVTegUAAAAJ&hl=en&oi=ao">My Google Scholar Page</h4>
 
 <p align="center">This section summarises my research interests and is an archive of the research papers I have written and published. I primarily work in the domain of deep learning-based computer vision.</p>
 
+<p align="center"><a href="https://scholar.google.com/citations?user=rwVTegUAAAAJ&hl=en&oi=ao">Link to my Google Scholar page.</a></p>
+
 ---
 
-<h5>Summary of Research Interests</h5>
+<h3>Summary of Research Interests</h3>
 
 During my thesis-based Master's degree at the University of Alberta, I was co-supervised by Prof. Nilanjan Ray of the Computing Science department and Prof. Nadir Erbilgin of the Renewable Resources Department. I was also fortunate to work closely with Dr. Seyed Mojtaba Marvasti-Zadeh, a postdoctoral fellow at the Renewable Resources Department,  Dr. Guillermo Castilla, a remote sensing research scientist at the Canadian Forest Service (Natural Resources Canada), and Dr. Devin Goodsman, an entomologist also working at Natural Resources Canada.
 
