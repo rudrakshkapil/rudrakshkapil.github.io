@@ -4,9 +4,9 @@ title: "Research"
 ---
 
 
-<p align="center">This section summarises my research interests and is an archive of the research papers I have written and published. I primarily work in the domain of deep learning-based computer vision.</p>
+<p text-align="center">This section summarises my research interests and is an archive of the research papers I have written and published. I primarily work in the domain of deep learning-based computer vision.</p>
 
-<p align="center"><a href="https://scholar.google.com/citations?user=rwVTegUAAAAJ&hl=en&oi=ao">Link to my Google Scholar page.</a></p>
+<p text-align="center"><a href="https://scholar.google.com/citations?user=rwVTegUAAAAJ&hl=en&oi=ao">Link to my Google Scholar page.</a></p>
 
 ---
 
@@ -22,7 +22,7 @@ During my undergraduate degree, I co-authored two research papers that were acce
 
 ---
 
-<h5> Research Papers </h5>
+<h3> List of Research Papers </h3>
  
 {% if site.show_excerpts %}
   {% include home.html %}
