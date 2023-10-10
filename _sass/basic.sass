@@ -19,7 +19,7 @@ body
 h1, h2, h3, h4, h5, h6
   font-weight: $heading-weight
   text-align: center
-  color: #ffc170
+  color: $orange-color
 
 b, strong, th
   font-weight: $font-weight + 200
@@ -33,8 +33,12 @@ a
   &:hover
     text-decoration: underline
 
-header a, footer a, aside a
+header a
+  color: $orange-color
+
+footer a, aside a
   color: inherit
+  
 
 header time
   color: reduce(100)
