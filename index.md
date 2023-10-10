@@ -7,7 +7,7 @@ title: "About Me"
 <!-- ![Profile Photo](resources/general/Profile-Photo.jpg){: style="float: right, width:50x"} -->
 
 
-<img src="resources/general/Profile-Photo.jpg" style="padding-left: 100px; float: right; width:30%;" />
+<img src="resources/general/Profile-Photo.jpg" style="padding-left: 30px; padding-bottom: 30px; padding-top: -30px; float: right; width:30%;" />
 
 Changed
 
