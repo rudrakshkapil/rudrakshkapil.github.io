@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 
-<p text-align="center">This section summarises my research interests and is an archive of the research papers I have written and published. I primarily work in the domain of deep learning-based computer vision.</p>
+<body text-align="center">This section summarises my research interests and is an archive of the research papers I have written and published. I primarily work in the domain of deep learning-based computer vision.</body>
 
 <p text-align="center"><a href="https://scholar.google.com/citations?user=rwVTegUAAAAJ&hl=en&oi=ao">Link to my Google Scholar page.</a></p>
 
