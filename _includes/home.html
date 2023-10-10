@@ -1,13 +1,12 @@
-<!-- {%- assign posts = paginator.posts | default: site.posts, where:"category","publication" -%} -->
-{%- assign posts = site.categories.publication -%}
+{%- assign posts = paginator.posts | default: site.posts, where:"category","publication" -%}
 {% for post in posts %}
-  <!-- {% if post.categories contains "publication"} -->
-  <article>
-    {% include meta.html post=post preview=true %}
-    {{ post.excerpt }}
-    <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
-  </article>
-  <!-- {% endif %} -->
+  {% if post.path contains 'papers' %}
+    <article>
+      {% include meta.html post=post preview=true %}
+      {{ post.excerpt }}
+      <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
+    </article>
+  {% endif %}
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
