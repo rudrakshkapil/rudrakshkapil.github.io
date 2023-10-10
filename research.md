@@ -10,7 +10,7 @@ title: "Research"
 
 ---
 
-<h3>Summary of Research Interests</h3>
+<h2>Summary of Research Interests</h2>
 
 During my thesis-based Master's degree at the University of Alberta, I was co-supervised by Prof. Nilanjan Ray of the Computing Science department and Prof. Nadir Erbilgin of the Renewable Resources Department. I was also fortunate to work closely with Dr. Seyed Mojtaba Marvasti-Zadeh, a postdoctoral fellow at the Renewable Resources Department,  Dr. Guillermo Castilla, a remote sensing research scientist at the Canadian Forest Service (Natural Resources Canada), and Dr. Devin Goodsman, an entomologist also working at Natural Resources Canada.
 
@@ -22,7 +22,7 @@ During my undergraduate degree, I co-authored two research papers that were acce
 
 ---
 
-<h3> List of Research Papers </h3>
+<h2> List of Research Papers </h2>
  
 {% if site.show_excerpts %}
   {% include home.html %}
