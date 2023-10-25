@@ -4,9 +4,11 @@
   <!-- <div style="width: 55%; float:left; padding-right:5px"> -->
     <article>
       {% include meta.html post=post preview=True %}
-      <img src="{{ sites.url }}/resources/publications/{{ post.img }}" style="float: left; width:75%; height:auto; border-radius: 15px"/>
-      <div class="more"><b href="{{ post.url | relative_url }}">Read more</b></div>
+      <div class="row">
+        <img src="{{ sites.url }}/resources/publications/{{ post.img }}" style="float: center; width:75%; height:auto; border-radius: 15px"/>
+      </div>
       {{ post.excerpt }}
+      <div class="more"><b href="{{ post.url | relative_url }}">Read more</b></div>
     </article>
   <!-- </div>
   <div style="width: 45%; float:right"> -->
