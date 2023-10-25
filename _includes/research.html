@@ -1,7 +1,6 @@
 
 {% for post in site.categories.publication %}
   <article>
-    <!-- {% include image.html src="{{ site.base }}" %} -->
     {% include meta.html post=post preview=True %}
     {{ post.excerpt }}
     <div class="more"><a href="{{ post.url | relative_url }}">Read more</a></div>
