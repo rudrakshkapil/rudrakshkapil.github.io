@@ -4,7 +4,6 @@ layout: post
 categories: publication
 image: cicn_face_masks.jpg
 ---
-![Image alt]({{ site.baseurl }}/resources/publications/cicn_face_masks.jpg "Face Mask Detection Results")
 Aniruddha S. Joshi, Shreyas S. Joshi, Goutham Kanahasabi, **Rudraksh Kapil**, and Savyasachi Gupta
 
 #### *in IEEE 12th International Conference on Computational Intelligence and Communication Networks (CICN 2020), Nainital, India*
@@ -16,3 +15,5 @@ Aniruddha S. Joshi, Shreyas S. Joshi, Goutham Kanahasabi, **Rudraksh Kapil**, an
   <div class="more"><a href="https://ieeexplore.ieee.org/document/9242625">View on IEEE Xplore</a></div>
   <div class="more"><a href="https://arxiv.org/abs/2011.02371">View on arXiv</a></div>
 </div>
+
+![Image alt]({{ site.baseurl }}/resources/publications/cicn_face_masks.jpg "Face Mask Detection Results")

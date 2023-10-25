@@ -4,8 +4,6 @@ layout: post
 categories: publication
 image: cicn_sdmeasure.jpg
 ---
-![Image alt]({{ site.baseurl }}/resources/publications/cicn_sdmeasure.jpg "SD-Measure Performance")
-
 Savyasachi Gupta, **Rudraksh Kapil**, Goutham Kanahasabi, Shreyas S. Joshi, and Aniruddha S. Joshi
 
 #### *in IEEE 12th International Conference on Computational Intelligence and Communication Networks (CICN 2020), Nainital, India*
@@ -17,3 +15,5 @@ Savyasachi Gupta, **Rudraksh Kapil**, Goutham Kanahasabi, Shreyas S. Joshi, and 
   <div class="more"><a href="https://ieeexplore.ieee.org/document/9242628">View on IEEE Xplore</a></div>
   <div class="more"><a href="https://arxiv.org/abs/2011.02365">View on arXiv</a></div>
 </div>
+
+![Image alt]({{ site.baseurl }}/resources/publications/cicn_sdmeasure.jpg "SD-Measure Performance")
