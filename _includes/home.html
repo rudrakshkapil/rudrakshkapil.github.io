@@ -1,22 +1,13 @@
 
 {% for post in site.categories.publication %}
   <article>
-    <!-- {% include meta.html post=post preview=true %} -->
-    <li>
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }},</span>
-      <span class="post-meta">por</span>
-      <span class="post-meta">{{ post.author }}</span>
-    </li>
 
-    //IMAGE
-    <img src="{{ site.baseurl }}/resources/publications/{{ post.image }}">
-    //IMAGE
+    
+    <img src="{{ site.baseurl }}/resources/publications/{{ post.image }}", width="40px">
+    {% include meta.html post=post preview=False %}
     
     {{ post.excerpt }}
-    <div class="more"><a href="{{ post.url | relative_url }}">Read More</a></div>
+    <div class="more"><a href="{{ post.url | relative_url }}">Read more</a></div>
   </article>
 {% endfor %}
 
