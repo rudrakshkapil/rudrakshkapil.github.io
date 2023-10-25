@@ -19,8 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title:"Home"}
   - {file: "research.md", title:"Research"}
   - {file: "projects.md", title:"Projects"}
-  - {file: "experience.md", title:"Experience"}
-  - {file: "lab.md", title:"FHM Group"}
+  # - {file: "experience.md", title:"Experience"}
+  - {file: "lab.md", title:"Forests"}
   # - {file: "thesis_page.md", title:"Thesis"}
   - {file: "resources/general/Rudraksh-Kapil-CV.pdf", title:"CV"}
 
