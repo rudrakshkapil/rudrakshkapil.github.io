@@ -10,8 +10,6 @@ title: "Research"
 
 ---
 
-<h2>Summary of Research Interests</h2>
-
 During my thesis-based Master's degree at the University of Alberta, I was co-supervised by Prof. Nilanjan Ray of the Computing Science department and Prof. Nadir Erbilgin of the Renewable Resources Department. I was also fortunate to work closely with Dr. Seyed Mojtaba Marvasti-Zadeh, a postdoctoral fellow at the Renewable Resources Department,  Dr. Guillermo Castilla, a remote sensing research scientist at the Canadian Forest Service (Natural Resources Canada), and Dr. Devin Goodsman, an entomologist also working at Natural Resources Canada.
 
 Working with my supervisors and collaborators, I have written two first-author research papers and have another one upcoming at a top computer vision conference. The research involved in all three papers was centered around my thesis, bringing the power of **deep learning-based computer vision** to the domain of **remote sensing** applications for **forest health monitoring**. Specifically, I proposed novel methods in each of the papers, related to topics such as **multi-modal image registration**, **object detection**, and **image classification**, all using **drone**-collected **RGB and thermal** imagery. I worked with techniques such as **supervised**, **self-supervised**, **active**, and **representation** (unsupervised) learning for large, **deep networks**.
@@ -22,6 +20,5 @@ During my undergraduate degree, I co-authored two research papers that were acce
 
 ---
 
-<h2> List of Peer-reviewed Research Papers </h2>
 {% include research.html title="Peer-Reviewed Publications"%}
 
