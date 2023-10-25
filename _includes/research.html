@@ -1,9 +1,9 @@
 
 {% for post in site.categories.publication %}
+  
+  {% assign image = post.images[0] %}
+  {% include image.html image=image %}
   <article>
-    {% assign image = post.images[0] %}
-    {% include image.html image=image %}
-
     {% include meta.html post=post preview=True %}
     {{ post.excerpt }}
     <div class="more"><a href="{{ post.url | relative_url }}">Read more</a></div>
