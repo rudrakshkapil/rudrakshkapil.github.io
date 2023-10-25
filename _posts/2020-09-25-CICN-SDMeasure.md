@@ -4,7 +4,7 @@ layout: post
 categories: publication
 img: cicn_sdmeasure.jpg
 ---
-Savyasachi Gupta, **Rudraksh Kapil**, Goutham Kanahasabi, Shreyas S. Joshi, and Aniruddha S. Joshi
+S. Gupta, **R. Kapil**, G. Kanahasabi, S. S. Joshi, and A. S. Joshi
 
 #### *in IEEE 12th International Conference on Computational Intelligence and Communication Networks (CICN 2020), Nainital, India*
 

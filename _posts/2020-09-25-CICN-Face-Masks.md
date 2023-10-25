@@ -4,7 +4,8 @@ layout: post
 categories: publication
 img: cicn_face_masks.jpg
 ---
-Aniruddha S. Joshi, Shreyas S. Joshi, Goutham Kanahasabi, **Rudraksh Kapil**, and Savyasachi Gupta
+<!-- Aniruddha S. Joshi, Shreyas S. Joshi, Goutham Kanahasabi, **Rudraksh Kapil**, and Savyasachi Gupta -->
+A. S. Joshi, S. S. Joshi, G. Kanahasabi, **R. Kapil**, and S. Gupta
 
 #### *in IEEE 12th International Conference on Computational Intelligence and Communication Networks (CICN 2020), Nainital, India*
 
