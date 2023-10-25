@@ -7,27 +7,6 @@
   body > header, body > article, body > footer
     padding: 1.75em calc(40% - 17em)
 
-  
-/* Columnize Post with Featured Image */
-@media (min-width: 768px) {
-    body:not(.single-post) .has-post-thumbnail .entry-featured {
-        float: left;
-        width: 40%;
-        box-shadow: none;
-        border: none;
-    }
-     body:not(.single-post) .has-post-thumbnail .entry-wrap {
-        float: left;
-        width: 60%;
-        padding: 0 0 0 40px;
-    }
-    body:not(.single-post) .has-post-thumbnail {
-        overflow: hidden;
-        background-color: #fff;
-        padding: 60px;
-    }
-}
-
 
 {% if site.minimal %}
 

@@ -23,5 +23,5 @@ During my undergraduate degree, I co-authored two research papers that were acce
 ---
 
 <h2> List of Peer-reviewed Research Papers </h2>
- {% include home.html title="Peer-Reviewed Publications"%}
+{% include home.html title="Peer-Reviewed Publications"%}
 
