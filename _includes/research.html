@@ -1,15 +1,15 @@
 
 {% for post in site.categories.publication %}
 <div class="excerpt-container">
-  <div style="width: 35%; float:left", justify-content="center">
-    <img src="{{ sites.url }}/resources/publications/{{ post.img }}" style="float: left; width:2500px; height:auto; padding-right: 30px"/>
-    <div class="more"><a href="{{ post.url | relative_url }}">Read more</a></div>
-  </div>
-  <div style="width: 65%; float:right">
+  <div style="width: 65%; float:left">
     <article>
       {% include meta.html post=post preview=True %}
       {{ post.excerpt }}
     </article>
+  </div>
+  <div style="width: 35%; float:right", justify-content="center">
+    <img src="{{ sites.url }}/resources/publications/{{ post.img }}" style="float: left; width:100%; height:auto; padding-right: 30px"/>
+    <div class="more"><a href="{{ post.url | relative_url }}">Read more</a></div>
   </div>
 </div>
 {% endfor %}
