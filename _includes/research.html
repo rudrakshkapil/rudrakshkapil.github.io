@@ -4,10 +4,10 @@
   <!-- <div style="width: 55%; float:left; padding-right:5px"> -->
     <article>
       {% include meta.html post=post preview=True %}
-      <div class="row">
-        <img src="{{ sites.url }}/resources/publications/{{ post.img }}" style="float: center; width:75%; height:auto; border-radius: 15px; padding:5px"/>
-      </div>
       {{ post.excerpt }}
+
+      <img src="{{ sites.url }}/resources/publications/{{ post.img }}" style="float: center; width:75%; height:auto; border-radius: 15px; padding:5px"/>
+      
       <div class="more"><b href="{{ post.url | relative_url }}">Read more</b></div>
     </article>
   <!-- </div>
