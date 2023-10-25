@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "FHM Projects"
+title: "Forests"
 background: ./resources/general/background.png
 ---
 
