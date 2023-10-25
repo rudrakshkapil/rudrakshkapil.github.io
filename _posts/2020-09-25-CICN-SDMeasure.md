@@ -4,6 +4,7 @@ layout: post
 categories: publication
 image: cicn_sdmeasure.jpg
 ---
+![Image alt]({{ site.baseurl }}/resources/publications/cicn_sdmeasure.jpg "SD-Measure Performance")
 
 Savyasachi Gupta, **Rudraksh Kapil**, Goutham Kanahasabi, Shreyas S. Joshi, and Aniruddha S. Joshi
 
