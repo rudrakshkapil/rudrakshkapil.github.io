@@ -7,11 +7,11 @@
       <div class="side-by-side">
         <div style="width: 54%; float:left; padding-right:5px; margin-right:5px">
           {{ post.excerpt }}
-          <div class="more"><b href="{{ post.url | relative_url }}">Read more</b></div>
+          <div class="more"><a href="{{ post.url | relative_url }}">Read more</a></div>
         </div>
         <div style="width: 44%; float:right; padding-left:5px; margin-left:5px">
           <div class="img-container">
-            <img src="{{ sites.url }}/resources/publications/{{ post.img }}" style="float: center; width:85%; height:auto; border-radius: 15px; padding:5px"/>
+            <img src="{{ sites.url }}/resources/publications/{{ post.img }}" style="float: center; width:100%; height:auto; border-radius: 15px; padding:5px"/>
           </div>
         </div>
       </div>
