@@ -6,7 +6,8 @@
       {% include meta.html post=post preview=True %}
       {{ post.excerpt }}
 
-      <img src="{{ sites.url }}/resources/publications/{{ post.img }}" style="float: center; width:75%; height:auto; border-radius: 15px; padding:5px"/>
+      <div 
+      <img src="{{ sites.url }}/resources/publications/{{ post.img }}" style="float: center; width:75%; height:auto; border-radius: 15px; padding:5px; margin-left:auto; margin-right:auto"/>
       
       <div class="more"><b href="{{ post.url | relative_url }}">Read more</b></div>
     </article>
