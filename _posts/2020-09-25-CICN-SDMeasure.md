@@ -2,7 +2,7 @@
 title:  "SD-Measure: A Social Distancing Detector"
 layout: post
 categories: publication
-image: cicn_sdmeasure.jpg
+img: cicn_sdmeasure.jpg
 ---
 Savyasachi Gupta, **Rudraksh Kapil**, Goutham Kanahasabi, Shreyas S. Joshi, and Aniruddha S. Joshi
 

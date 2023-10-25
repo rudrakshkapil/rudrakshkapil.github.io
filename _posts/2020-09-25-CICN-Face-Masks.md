@@ -2,7 +2,7 @@
 title:  "Deep Learning Framework to Detect Face Masks from Video Footage"
 layout: post
 categories: publication
-image: cicn_face_masks.jpg
+img: cicn_face_masks.jpg
 ---
 Aniruddha S. Joshi, Shreyas S. Joshi, Goutham Kanahasabi, **Rudraksh Kapil**, and Savyasachi Gupta
 
