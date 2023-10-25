@@ -4,15 +4,18 @@
   <!-- <div style="width: 55%; float:left; padding-right:5px"> -->
     <article>
       {% include meta.html post=post preview=True %}
-      <div style="width: 55%; float:left; padding-right:5px; margin:5px">
-        {{ post.excerpt }}
-        <div class="more"><b href="{{ post.url | relative_url }}">Read more</b></div>
+      <div class="side-by-side">
+        <div style="width: 55%; float:left; padding-right:5px; margin:5px">
+          {{ post.excerpt }}
+          <div class="more"><b href="{{ post.url | relative_url }}">Read more</b></div>
+        </div>
+        <div style="width: 45%; float:right; padding:5px; margin:5px">
+          <div class="img-container">
+            <img src="{{ sites.url }}/resources/publications/{{ post.img }}" style="float: center; width:85%; height:auto; border-radius: 15px; padding:5px"/>
+          </div>
+        </div>
       </div>
-      <div style="width: 45%; float:right; padding:5px; margin:5px">
-        <!-- <div class="img-container"> -->
-        <img src="{{ sites.url }}/resources/publications/{{ post.img }}" style="float: center; width:75%; height:auto; border-radius: 15px; padding:5px"/>
-        <!-- </div> -->
-      </div>
+
       
     </article>
   <!-- </div>
