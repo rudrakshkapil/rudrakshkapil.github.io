@@ -8,7 +8,7 @@ title: "About Me"
 
 <div align-items="center" style="padding-left: 30px; float: right; width:32%">
     <img src="resources/general/Profile-Photo.jpg" style="width:99%; border-radius: 30px;"/>
-    <div class="button-container" align-items="center" style="margin-bottom:-10px;justify-content: center;">
+    <div class="button-container" align-items="center" style="justify-content: center;">
         <div class="more"><a href="{{ sites.baseurl }}/resources/general/Rudraksh-Kapil-CV.pdf">CV</a></div>
         <div class="more"><a href="https://linkedin.com/in/rudrakshkapil">LinkedIn</a></div>
         <div class="more"><a href="https://github.com/rudrakshkapil">GitHub</a></div>

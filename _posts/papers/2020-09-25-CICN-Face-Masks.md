@@ -18,5 +18,6 @@ A. S. Joshi, S. S. Joshi, G. Kanahasabi, **R. Kapil**, and S. Gupta
 </div>
 
 <!-- ![Image alt]({{ site.baseurl }}/resources/publications/cicn_face_masks.jpg "Face Mask Detection Results") -->
-
-<img src="{{ site.baseurl }}/resources/publications/cicn_face_masks.jpg" style="width:99%; border-radius: 30px; border-color:$orange-color"/>
+<div style="border-radius: 30px; border-color:$link-color">
+  <img src="{{ site.baseurl }}/resources/publications/cicn_face_masks.jpg" style="width:99%";/>
+</div>
