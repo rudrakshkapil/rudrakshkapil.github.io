@@ -26,7 +26,7 @@ The code implementation, project report, and presentation slides are all availab
 
 
 <div style="display:flex;justify-content:center;align-items:center">
-  <img src="{{ site.baseurl }}/resources/projects/{{ page.img }}" alt="{{ page.alt }}" style="width:300px;height:auto;justify-content:center;margin:5px">
-  <img src="{{ site.baseurl }}/resources/projects/{{ page.img2 }}" alt="{{ page.alt2 }}" style="width:300px;height:auto;justify-content:center;margin:5px">
+  <img src="{{ site.baseurl }}/resources/projects/{{ page.img }}" alt="{{ page.alt }}" style="width:auto;height:200px;justify-content:center;margin:5px">
+  <img src="{{ site.baseurl }}/resources/projects/{{ page.img2 }}" alt="{{ page.alt2 }}" style="width:auto;height:200px;justify-content:center;margin:5px">
 </div>
 
