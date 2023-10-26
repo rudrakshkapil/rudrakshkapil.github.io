@@ -1,7 +1,7 @@
 ---
 title:  "Blade Demon: Runner"
 layout: post
-categories: project-app
+categories: project-game
 
 img: bladedemon.png
 alt: "Blade Demon Game Title Screenshot"

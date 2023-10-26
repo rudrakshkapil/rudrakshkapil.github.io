@@ -1,7 +1,7 @@
 ---
 title:  "Flick To Kick Rugby - Paper Edition"
 layout: post
-categories: project-app
+categories: project-game
 
 img: flicktokick.png
 alt: "Flick to Kick Video"
