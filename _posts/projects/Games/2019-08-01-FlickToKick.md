@@ -18,9 +18,11 @@ The game has now reached over 1000 installs!
   <div class="more"><a href="https://play.google.com/store/apps/details?id=com.GBit.FlickToKickRugby&hl=en_IN">Play Store</a></div>
 </div>
 
-<iframe width="420" height="615"
-src="https://www.youtube.com/embed/6lPJzs_J2NY">
-</iframe>
+<div style="display:flex;justify-content:center;margin-top:10px">
+  <iframe width="420" height="615"
+  src="https://www.youtube.com/embed/6lPJzs_J2NY">
+  </iframe>
+</div>
 
 
 
