@@ -6,7 +6,7 @@ title: "About Me"
 
 <!-- ![Profile Photo](resources/general/Profile-Photo.jpg){: style="float: right, width:50x"} -->
 <div style="background-color:rgb(250,252,215);text-align:justify">
-<div align-items="center" style="padding-left: 30px; float: right; width:32%">
+<div align-items="center" style="padding-left: 30px; float: right; width:33%">
     <img src="resources/general/Profile-Photo.jpg" style="width:99%; border-radius: 30px; margin-bottom:10px"/>
     <div class="button-container" align-items="center" style="justify-content: center;">
         <div class="more"><a href="{{ sites.baseurl }}/resources/general/Rudraksh-Kapil-CV.pdf">CV</a></div>
