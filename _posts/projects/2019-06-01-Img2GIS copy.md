@@ -1,0 +1,31 @@
+---
+title:  "Revenge of the Sudoku"
+layout: post
+categories: project-app
+img: img2gis.png
+---
+
+**Skills**: Python, bash, PyQt5 & Designer, Docker, Git, CI/CD, CUDA, OpenDroneMap, OpenSfM, OpenMVS, WSL, MeshLab, GDAL.
+
+
+**Description**: Revenge of the Sudoku is a novel twist on classic sudoku, allowing two players to play against each other (or for a player to play against the in-game AI). Players take turns placing numbers to fill empty game board while adhering to the laws of sudoku, and last player to make a legal move is the winner. 
+
+Although this is technically a game that has been published to the Google Play Store, it is listed under this section because it was the first original android app I developed using Android Studio. I incorporated all of the key concepts I learned from The Complete Android O Developer Course available on Udemy. Although I learned the basics from the course, actually creating my own app and releasing it was definitely a valuable learning experience because I got a better understanding of the entire pipeline, from development to release.
+
+I'm proud to say that it has now reached over 1000 installs.
+
+
+
+<div class="button-container" style="margin-bottom:10px;justify-content:center">
+  <div class="more"><a href="https://play.google.com/store/apps/details?id=com.GBit.revengeofthesudoku&hl=en_IN">Play Store</a></div>
+</div>
+
+
+
+![Image alt]({{ site.baseurl }}/resources/projects/{{ page.img }} "Overview of Proposed RGB-Thermal Tree Crown Detection Model")
+<!-- <div style="border-radius: 30px; border-color:rgb(1,160,73);width:99%;margin-top:10px">
+  <img src="{{ site.baseurl }}/resources/publications/{{ page.img }}"/>
+</div> -->
+
+
+
