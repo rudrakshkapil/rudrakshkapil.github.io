@@ -3,12 +3,12 @@ layout: page
 title: "Research"
 ---
 
-
-<body text-align="center" align-items="center">This section summarises my research interests and is an archive of the research papers I have written and published. I primarily work in the domain of deep learning-based computer vision. So far, I have 5 publications, with 3 as first author.</body>
+<!-- TODO: try style= instead -->
+<body text-align="center" align-items="center" justify-content="center">This section summarises my research interests and is an archive of the research papers I have written and published. I primarily work in the domain of deep learning-based computer vision. So far, I have 5 publications, with 3 as first author.</body>
 
 
 <div class="img-container">
-    <div class="more" margin-top="2em"><a href="https://scholar.google.com/citations?user=rwVTegUAAAAJ&hl=en&oi=ao">Link to Google Scholar Page</a></div>
+    <div class="more" style="margin-top:5px"><a href="https://scholar.google.com/citations?user=rwVTegUAAAAJ&hl=en&oi=ao">Link to Google Scholar Page</a></div>
 </div>
 
 
