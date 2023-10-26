@@ -5,25 +5,25 @@ title: Projects
 
 
 <!-- TODO: try style= instead -->
-<body style="text-align:center">This page lists a selected subset of both small and large, individual and team projects that I have worked completed.</body>
+<body style="text-align:center">This page showcases a select subset of both small and large, individual and team projects that I have worked on and completed.</body>
 
 
 ---
 
-## ML, DL, and Computer Vision
+# ML, DL, and Computer Vision
 
 {% include projects-ML.html title="ML, DL, and Computer Vision"%}
 
 
 ---
 
-## Game Development
+# Game Development
 
 {% include projects-game.html title="Game Development"%}
 
 ---
 
-## App Development
+# App Development
 
 
 {% include projects-app.html title="App Development"%}
@@ -32,7 +32,7 @@ title: Projects
 ---
 
 
-## Web Development
+# Web Development
 
 {% include projects-web.html title="Web Development"%}
 
