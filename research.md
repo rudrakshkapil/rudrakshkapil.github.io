@@ -8,7 +8,7 @@ title: "Research"
 
 
 <div class="img-container">
-    <div class="more" style="margin-top:5px"><a href="https://scholar.google.com/citations?user=rwVTegUAAAAJ&hl=en&oi=ao">Link to Google Scholar Page</a></div>
+    <div class="more" style="margin-top:15px"><a href="https://scholar.google.com/citations?user=rwVTegUAAAAJ&hl=en&oi=ao">Link to My Google Scholar Page</a></div>
 </div>
 
 
