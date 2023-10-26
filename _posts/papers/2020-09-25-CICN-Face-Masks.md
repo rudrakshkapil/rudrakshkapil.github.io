@@ -17,7 +17,8 @@ A. S. Joshi, S. S. Joshi, G. Kanahasabi, **R. Kapil**, and S. Gupta
   <div class="more"><a href="https://arxiv.org/abs/2011.02371">View on arXiv</a></div>
 </div>
 
-<!-- ![Image alt]({{ site.baseurl }}/resources/publications/cicn_face_masks.jpg "Face Mask Detection Results") -->
-<div style="border-radius: 30px; border-color:rgb(1,160,73);width:99%;margin-top:10px">
+
+![Image alt]({{ site.baseurl }}/resources/publications/cicn_face_masks.jpg "Face Mask Detection Results")
+<!-- <div style="border-radius: 30px; border-color:rgb(1,160,73);width:99%;margin-top:10px">
   <img src="{{ site.baseurl }}/resources/publications/{{ page.img }}"/>
-</div>
+</div> -->

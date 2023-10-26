@@ -16,7 +16,7 @@ S. Gupta, **R. Kapil**, G. Kanahasabi, S. S. Joshi, and A. S. Joshi
   <div class="more"><a href="https://arxiv.org/abs/2011.02365">View on arXiv</a></div>
 </div>
 
-<!-- ![Image alt]({{ site.baseurl }}/resources/publications/cicn_sdmeasure.jpg "SD-Measure Performance") -->
-<div style="border-radius: 30px; border-color:rgb(1,160,73);width:99%;margin-top:10px">
+![Image alt]({{ site.baseurl }}/resources/publications/cicn_sdmeasure.jpg "SD-Measure Performance")
+<!-- <div style="border-radius: 30px; border-color:rgb(1,160,73);width:99%;margin-top:10px">
   <img src="{{ site.baseurl }}/resources/publications/{{ page.img }}"/>
-</div>
+</div> -->
