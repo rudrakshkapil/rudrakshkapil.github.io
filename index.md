@@ -6,8 +6,8 @@ title: "About Me"
 
 <!-- ![Profile Photo](resources/general/Profile-Photo.jpg){: style="float: right, width:50x"} -->
 
-<div align-items="center" style="padding-left: 30px; float: right; width:35%">
-    <img src="resources/general/Profile-Photo.jpg" style="width:99%; border-radius: 30px; margin-top:-1px"/>
+<div align-items="center" style="padding-left: 30px; float: right; width:32%">
+    <img src="resources/general/Profile-Photo.jpg" style="width:99%; border-radius: 30px;"/>
     <div class="button-container" align-items="center" style="margin-bottom:-10px;justify-content: center;">
         <div class="more"><a href="{{ sites.baseurl }}/resources/general/Rudraksh-Kapil-CV.pdf">CV</a></div>
         <div class="more"><a href="https://linkedin.com/in/rudrakshkapil">LinkedIn</a></div>
