@@ -17,6 +17,6 @@ S. Gupta, **R. Kapil**, G. Kanahasabi, S. S. Joshi, and A. S. Joshi
 </div>
 
 <!-- ![Image alt]({{ site.baseurl }}/resources/publications/cicn_sdmeasure.jpg "SD-Measure Performance") -->
-<div style="border-radius: 30px; border-color:$link-color">
-  <img src="{{ site.baseurl }}/resources/publications/{{ page.img }}" style="width:99%";/>
+<div style="border-radius: 30px; border-color:$link-color;width:99%">
+  <img src="{{ site.baseurl }}/resources/publications/{{ page.img }}"/>
 </div>
