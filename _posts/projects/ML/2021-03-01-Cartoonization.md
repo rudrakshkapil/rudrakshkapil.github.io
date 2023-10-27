@@ -19,6 +19,6 @@ alt: "Cartoonized image"
 
 
 <div style="display:flex;justify-content:center;align-items:center">
-  <img src="{{ site.baseurl }}/resources/projects/{{ page.img }}" alt="{{ page.alt }}" style="width:300px;height:auto;justify-content:center">
+  <img src="{{ site.baseurl }}/resources/projects/{{ page.img }}" alt="{{ page.alt }}" style="width:400px;height:auto;justify-content:center">
 </div>
 

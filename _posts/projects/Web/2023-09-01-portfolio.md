@@ -17,7 +17,7 @@ alt: "Screenshot of Personal Website"
 
 
 <div style="display:flex;justify-content:center;align-items:center">
-  <img src="{{ site.baseurl }}/resources/projects/{{ page.img }}" alt="{{ page.alt }}" style="width:300px;height:auto;justify-content:center;border-color:rgb(0,0,0)">
+  <img src="{{ site.baseurl }}/resources/projects/{{ page.img }}" alt="{{ page.alt }}" style="width:80%;height:auto;justify-content:center;border-color:rgb(0,0,0)">
 </div>
 
 
