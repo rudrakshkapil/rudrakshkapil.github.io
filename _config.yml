@@ -6,6 +6,7 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %Y"
 background: resources/general/background.png
+url: "https://rudrakshkapil.com"
 
 # Layout
 
