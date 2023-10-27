@@ -3,7 +3,6 @@ layout: page
 title: "About Me"
 ---
 
-<link rel="shortcut icon" type="image/x-icon" href="{{ sites.baseurl }}/resources/general/favicon.ico">
 
 <!-- ![Profile Photo](resources/general/Profile-Photo.jpg){: style="float: right, width:50x"} -->
 <div style="background-color:rgb(250,253,212);text-align:justify">
