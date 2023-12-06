@@ -5,7 +5,7 @@ title: "About Me"
 
 
 <!-- ![Profile Photo](resources/general/Profile-Photo.jpg){: style="float: right, width:50x"} -->
-<div style="background-color:rgb(250,253,212);text-align:justify">
+<div style="background-color:rgb(255,255,255);text-align:justify">
 <div align-items="center" style="padding-left: 30px; float: right; width:34%">
     <img src="resources/general/Profile-Photo.jpg" style="width:99%; border-radius: 30px; margin-bottom:10px"/>
     <div class="button-container" align-items="center" style="justify-content: center;">
