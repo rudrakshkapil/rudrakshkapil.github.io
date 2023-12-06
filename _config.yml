@@ -5,7 +5,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %Y"
-background: resources/general/background.png
+background: resources/general/Background.pdf
 url: "https://rudrakshkapil.com"
 
 # Layout
