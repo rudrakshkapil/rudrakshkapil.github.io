@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <!-- <html lang="{{ page.lang | default: site.lang | default: "en" }}" style="background-image: url('{{ site.baseurl }}/resources/general/background.png'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;color: #FFFFFF; background-size: 100% 100%;"> -->
 <html lang="{{ page.lang | default: site.lang | default: "en" }}>
-<body class="bgimg">
-</body>
+
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
 <meta charset="{{ site.encoding }}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -36,6 +35,8 @@
   {% include menu.html menu=pages %}
 </header>
 
+<body class="bgimg">
+</body>
 {{ content }}
 
 {% if site.external %}
