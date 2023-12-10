@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}" style="background-repeat: no-repeat; background-attachment: fixed; background-size: cover;color: #FFFFFF; background-size: 100% 100%;">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <!-- <html lang="{{ page.lang | default: site.lang | default: "en" }}" style="background-image: url('{{ site.baseurl }}/resources/general/background.png'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;color: #FFFFFF; background-size: 100% 100%;"> -->
 <!-- <html lang="{{ page.lang | default: site.lang | default: "en" }}> -->
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
@@ -35,7 +35,6 @@
   {% include menu.html menu=pages %}
 </header>
 
-<div class="bgimg">TEST 2</div>
 
 {{ content }}
 
