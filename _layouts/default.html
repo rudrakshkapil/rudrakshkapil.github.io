@@ -29,8 +29,7 @@
 {% else %}
   {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
-<div class="bgimg", style="background-image: url('{{ site.baseurl }}/resources/general/background.png'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;color: #FFFFFF; background-size: 100% 100%; height:100%">
-  Test
+
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
@@ -39,6 +38,9 @@
 
 <body>
 {{ content }}
+<div class="bgimg", style="background-image: url('{{ site.baseurl }}/resources/general/background.png'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;color: #FFFFFF; background-size: 100% 100%; height:100%">
+Test
+</div>
 </body>
 
 {% if site.external %}
@@ -47,6 +49,4 @@
   {% include menu.html menu=site.external %}
 </footer>
 {% endif %}
-</div>
 </html>
-
