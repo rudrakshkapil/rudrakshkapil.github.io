@@ -6,7 +6,7 @@ img: portfolio.png
 alt: "Screenshot of Personal Website"
 ---
 
-**Skills**: HTML, CSS, Bootstrap, Liquid, Jekyll, Hyde, GitHub, Markdown, XML, JSON, UI/UX.
+**Skills**: Frontend, Multi-Platform Web Dev., HTML, CSS, Javascript, Bootstrap, Liquid, Jekyll, Hyde, GitHub, Markdown, XML, JSON, UI/UX.
 
 
 **Description**: I created this website (the one you're on right now) to showcase my portfolio of research papers and projects. I taught myself web development and am always open to feedback, so please feel free to contact me with any suggestions.
