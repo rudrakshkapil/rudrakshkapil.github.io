@@ -14,6 +14,7 @@ title: "About Me"
         <div class="more"><a href="{{ sites.baseurl }}/resources/general/Rudraksh-Kapil-CV.pdf">CV</a>
     </div>
 </div>
+</div>
 
 Hello! My name is Rudraksh. I am a recent M.Sc. Thesis-based Computer Science graduate from the University of Alberta. I'm highly skilled in machine learning and deep learning, especially in the computer vision domain, with proficiences in Python & its various libraries (PyTorch, scikit-learn, etc.), C++, Java, and C#. I'm <b>actively looking for Machine Learning Engineer or similar Developer roles</b> in industry where I can bring a data-driven approach to solve practical problems by building new software. You can find my full CV <a href="resources/general/Rudraksh-Kapil-CV.pdf">here</a>. Feel free to reach out to me over <a href="mailto:rkapil@ualberta.ca">email</a> or <a href="https://linkedin.com/in/rudrakshkapil">LinkedIn</a> if you're interested in connecting. <br><br>
 
