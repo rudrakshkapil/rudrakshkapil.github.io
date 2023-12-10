@@ -1,5 +1,10 @@
 html 
-  color: #000000
+  background-img: url("../resources/general/background.png")
+  background: rgb(0,0,0)
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-attachment: fixed
+  background-size: cover
 
 
 
@@ -14,12 +19,7 @@ body
   -webkit-text-size-adjust: 100%
   -webkit-font-smoothing: antialiased
   -moz-osx-font-smoothing: grayscale
-  background-img: url("../resources/general/background.png")
-  background: rgb(0,0,0)
-  background-size: 100% 100%
-  background-repeat: no-repeat
-  background-attachment: fixed
-  background-size: cover
+  
 
 
 
@@ -27,7 +27,15 @@ body
 @media (max-width: 480px) 
   html 
     // background-img: none
-    color: #FFFFFF
+    // background-img: url("../resources/general/background.png")
+    background: rgb(0,0,0)
+    // background-size: 100% 100%
+    // background-repeat: no-repeat
+    // background-attachment: fixed
+    // background-size: cover
+  
+    body
+      color: $light
 
 
 
