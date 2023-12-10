@@ -23,4 +23,3 @@ I'm currently working as an ML Remote Sensing Developer, a position I was promot
 
 In 2021, I graduated First Division with Distinction from NIT Warangal with a B.Tech. in Computer Science and Engineering. During my undergrad degree, my highlights include co-authoring two conference papers and being the Lead Programmer for GBit Studios, a startup in the game development industry where I created and released several games built using Unity and Android Studio (Java).
 </div>
-
