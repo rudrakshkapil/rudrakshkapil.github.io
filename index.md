@@ -11,7 +11,7 @@ title: "About Me"
     <div class="button-container" align-items="center" style="justify-content: center;">
         <div class="more"><a href="https://linkedin.com/in/rudrakshkapil">LinkedIn</a></div>
         <div class="more"><a href="https://github.com/rudrakshkapil">GitHub</a></div>
-        <div class="more"><a href="{{ sites.baseurl }}/resources/general/Rudraksh-Kapil-CV.pdf">CV</a></div>
+        <div class="more"><a href="{{ sites.baseurl }}/resources/general/Rudraksh-Kapil-CV.pdf">CV</a>
     </div>
 </div>
 
