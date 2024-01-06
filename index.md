@@ -6,7 +6,7 @@ title: "About Me"
 
 <!-- ![Profile Photo](resources/general/Profile-Photo.jpg){: style="float: right, width:50x"} -->
 <div class="indexBody" style="text-align:justify; background-color:rgb(255,255,255)">
-<div align-items="center" style="padding-left: 30px; padding-bottom: 30px; float: right; width:34%">
+<div align-items="center" style="padding-left: 30px; padding-bottom: 10px; float: right; width:34%">
     <img src="resources/general/Profile-Photo.jpg" style="width:99%; border-radius: 30px; margin-bottom:10px"/>
     <div class="button-container" align-items="center" style="justify-content: center;">
         <div class="more"><a href="https://linkedin.com/in/rudrakshkapil">LinkedIn</a></div>
