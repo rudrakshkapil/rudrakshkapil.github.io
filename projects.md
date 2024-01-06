@@ -5,7 +5,7 @@ title: Projects
 
 
 <!-- TODO: try style= instead -->
-<body style="text-align:center">This page showcases a select subset of both small and large, individual and team projects that I have worked on and completed.</body>
+<body style="text-align:center; background-color:rgb(255,255,255)">This page showcases a select subset of both small and large, individual and team projects that I have worked on and completed.</body>
 
 
 ---

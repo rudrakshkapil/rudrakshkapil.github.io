@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 <!-- TODO: try style= instead -->
-<body style="text-align:center">This page summarises my research interests and is an archive of the research papers I have written and published. I primarily work in the domain of deep learning-based computer vision. So far, I have 5 publications, with 3 as first author.</body>
+<body style="text-align:center; background-color:rgb(255,255,255)">This page summarises my research interests and is an archive of the research papers I have written and published. I primarily work in the domain of deep learning-based computer vision. So far, I have 5 publications, with 3 as first author.</body>
 
 
 <div class="img-container">
