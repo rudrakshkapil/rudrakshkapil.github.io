@@ -5,7 +5,7 @@ title: Projects
 
 
 <!-- TODO: try style= instead -->
-<div class="indexBody" style="text-align:justify; background-color:rgb(255,255,255)">
+<div class="indexBody">
 
 This page showcases a select subset of both small and large, individual and team projects that I have worked on and completed.</div>
 
