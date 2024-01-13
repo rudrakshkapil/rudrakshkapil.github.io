@@ -5,9 +5,9 @@ title: Projects
 
 
 <!-- TODO: try style= instead -->
-<div class="index-body">
-
-This page showcases a select subset of both small and large, individual and team projects that I have worked on and completed.</div>
+<div class="index-body" style="align-text:justify">
+This page showcases a select subset of both small and large, individual and team projects that I have worked on and completed. Most of them are hosted on GitHub. 
+</div>
 
 
 ---
