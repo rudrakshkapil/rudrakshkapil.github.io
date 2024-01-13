@@ -25,15 +25,16 @@
 .icon
   fill: $dark
 
-.indexBody
-  background-color:rgb(255,255,255)
-  text-align:justify
-  margin: 5px 5px
-  padding: 5px 5px
+@media (min-width: 640px)
+  .indexBody
+    background-color:rgb(255,255,255)
+    text-align:justify
+    margin: 5px 5px
+    padding: 5px 5px
 
 
 /* Landscape tablets and medium desktops */
-@media (max-width: 480px) 
+@media (max-width: 640px) 
   .button-container 
     display: flex
     flex-wrap: wrap
