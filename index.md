@@ -5,7 +5,7 @@ title: "About Me"
 
 
 <!-- ![Profile Photo](resources/general/Profile-Photo.jpg){: style="float: right, width:50x"} -->
-<div class="indexBody">
+<div class="index-body">
 
 <div align-items="center" style="padding-left: 30px; padding-bottom: 10px; float: right; width:34%">
     <img src="resources/general/Profile-Photo.jpg" style="width:99%; border-radius: 30px; margin-bottom:10px"/>

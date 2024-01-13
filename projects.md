@@ -5,7 +5,7 @@ title: Projects
 
 
 <!-- TODO: try style= instead -->
-<div class="indexBody">
+<div class="index-body">
 
 This page showcases a select subset of both small and large, individual and team projects that I have worked on and completed.</div>
 
