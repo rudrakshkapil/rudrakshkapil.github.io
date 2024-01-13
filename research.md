@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 <!-- TODO: try style= instead -->
-<div class="indexBody" style="text-align:center; background-color:rgb(255,255,255)">
+<div class="indexBody">
 This page summarises my research interests and is an archive of the research papers I have written and published. I primarily work in the domain of deep learning-based computer vision. So far, I have 5 publications, with 3 as first author.
 </div>
 
